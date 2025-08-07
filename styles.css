@@ -272,3 +272,16 @@ img.img-fluid {
   padding: 2rem 0;
   font-size: 0.95rem;
 }
+
+.intervalo {
+  padding: 20px;
+  background-color: black;
+}
+
+
+.imagem-fundo {
+  background-image: url(img/corpo.png);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
